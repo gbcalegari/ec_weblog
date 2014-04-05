@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+/* PASTE YOUR FONT FACE CSS HERE! */
+
+
+@font-face {
+    font-family: 'museo500';
+    src: url('museo500-regular-webfont.eot');
+    src: url('museo500-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('museo500-regular-webfont.woff') format('woff'),
+         url('museo500-regular-webfont.ttf') format('truetype'),
+         url('museo500-regular-webfont.svg#museo500') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'museo700';
+    src: url('museo700-regular-webfont.eot');
+    src: url('museo700-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('museo700-regular-webfont.woff') format('woff'),
+         url('museo700-regular-webfont.ttf') format('truetype'),
+         url('museo700-regular-webfont.svg#museo700') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
